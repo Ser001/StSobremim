@@ -1,0 +1,41 @@
+body{
+    color:white;
+    background-color: rgb(63, 63, 63);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+header img {
+    width: 188px;
+    height: 255px;
+    border-radius: 50%;
+    border: 5px solid #008B8B;
+}
+.center{
+    text-align: center;
+}
+h1{
+    color:#9c9c9c;
+}
+.email-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .email-icon {
+    margin-right: 10px; /* ajuste o valor conforme necessário */
+  }
+  
+  .email-address {
+    font-weight: bold; /* opcional, para deixar o endereço de e-mail em negrito */
+  }
+  
